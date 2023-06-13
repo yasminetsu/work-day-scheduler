@@ -31,10 +31,6 @@ Project was created with:
 * HTML
 * JavaScript
 
-## Installation
-
-
-
 
 ## Installation
 
