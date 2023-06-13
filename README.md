@@ -24,19 +24,34 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-## Technoligies
+## Technologies
+
+Project was created with:
+* CSS
+* HTML
+* JavaScript
+
+## Installation
+
+
 
 
 ## Installation
 
 To run this project, pull it from Github to your local machine using your terminal.
+   
+#### Steps: 
 
-Steps:
-Open Github
-Navigate to the 'Yasminetsu/work-day-scheduler' repository.
-Click the green button on the page that says "code."
-Copy the link under SSH.
-Open your terminal and type the following keys.
+1. Open Github
+2. Navigate to the 'yasminetsu/work-day-scheduler" repository. 
+3. Click the green button on the page that says "code."
+4. Copy the link under SSH. 
+5. Open your terminal and type the following keys.
+
+```
 $ cd <any folder you want this repository to go to>
 $ git clone <paste the copied link>
+```
 
+ <img src="./assets/images/work1.png" alt="work1">
+<img src="./assets/images/work2.png" alt="work2">
