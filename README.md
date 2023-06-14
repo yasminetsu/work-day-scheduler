@@ -1,6 +1,6 @@
 # work-day-scheduler
 
-  <a href="https://yasminetsu.github.io/Module-2-Portfolio/">
+  <a href="https://yasminetsu.github.io/work-day-scheduler/">
   <img src="./assets/images/live demo.webp" alt="live-logo">
 
 
